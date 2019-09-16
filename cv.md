@@ -1,6 +1,6 @@
-<h1>Anton Shchatsinin</h1>
+# Anton Shchatsinin
 
-<h2>Contact Info</h2>
+## Contact Info
 
 **Email:** shhetinin.toni@bk.ru
 
@@ -11,7 +11,7 @@
 **Age:**
 *24 years.*
 
-<h2>Profiles</h2>
+## Profiles
 
 * https://github.com/  
 * https://www.linkedin.com/  
@@ -19,14 +19,14 @@
 * https://www.instagram.com/?hl=ru
 
 
-<h2>Skills</h2>
+## Skills
 
 *Technologies / Languages: HTML & CSS, Javascript  basics.*
 
-<h2>Graphic:</h2>
+## Graphic:
 
 *Photoshop*
 
-<h2>Education</h2>
+## Education 
 
 * *Html-Academy* 
