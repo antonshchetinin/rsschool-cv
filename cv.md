@@ -30,3 +30,10 @@
 ## Education 
 
 * *Html-Academy* 
+* *Codecademy*
+* *learnJavaScript*
+
+
+## English
+
+**Level:** *beginner(doing courses)*
