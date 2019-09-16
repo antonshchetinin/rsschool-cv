@@ -2,21 +2,21 @@
 
 ## Contact Info
 
-**Email:** shhetinin.toni@bk.ru
+**Email:** [shhetinin.toni@bk.ru](https://mail.ru/)
 
-**Phone:** +37533628002
+**Phone:** [+37533628002](tel:+375333628002)
 
-**Telegram:** @termoyadernyy_dzem
+**Telegram:** [@termoyadernyy_dzem](https://t.me/termoyadernyy_dzhem)
 
 **Age:**
 *24 years.*
 
 ## Profiles
 
-* https://github.com/  
-* https://www.linkedin.com/  
-* https://vk.com/feed  
-* https://www.instagram.com/?hl=ru
+* [GitHub](https://github.com/antonshchetinin)  
+* [LinkedIn](https://www.linkedin.com/)  
+* [VK](https://vk.com/c.moni)
+* [Instagram](https://www.instagram.com/?hl=ru)
 
 
 ## Skills
