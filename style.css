@@ -18,7 +18,6 @@
         .logo {
             display: flex;
             align-items: center;
-            /* border: #fcfdff solid; */
         }
         
         .logo img {
@@ -35,15 +34,11 @@
             color: #fefeff;
             font-family: 'Shadows Into Light', cursive;
             padding-top: 35px;
-            /* padding: 0; */
-            /* border: solid #fcfdff; */
         }
         
         .contact_inform {
             display: flex;
             flex-direction: column;
-            /* justify-content: space-around; */
-            /* border: solid #fcfdff; */
         }
         
         .contact_inform a {
@@ -103,7 +98,6 @@
             padding-left: 90px;
             display: flex;
             flex-direction: column;
-            /* justify-content: space-around; */
         }
         
         .resume_second_block {
